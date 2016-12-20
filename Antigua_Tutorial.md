@@ -1,5 +1,6 @@
 # Antigua Maps
-### Author: John.Harris@mavs.uta.edu, Modifications by Amber Jolly 
+![Antigua Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1024px-Flag_of_Antigua_and_Barbuda.svg.png)
+### Author: John.Harris@mavs.uta.edu, Modifications by Amber Jolly and Willie Kingren
 ## This excercise allows you to apply the skills learned in the Barbados exercise to Antigua.
 
 1. Make a folder entitled "Antigua" on your computer.
@@ -17,3 +18,6 @@
 ![Antigua georefrenced](http://i1092.photobucket.com/albums/i405/finbar01/Anigua%20georefrenced_zpsx5d5td7g.png)
 9. Unselect the "Antigua 1775" and add the "Antigua 1824" as a raster layer by Georefrencing it as well. Now you can switch back and forth between late eighteenth-century and early nineteenth-century cartographic conceptions of Antigua. Yay!
 10. Save your work and close QGIS.
+#Data Sources
+1. Basemaps http://www.oas.org/pgdm/data/gis_data.htm
+2. Historic Maps https://github.com/HIST5360-f16/QGIS1-Antigua
